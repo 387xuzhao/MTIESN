@@ -1,4 +1,3 @@
 README：This repository contains the code used to produce the results presented in the paper "Multirate Modeling of Energy Consumption in Wastewater Treatment Processes Via Multi-Task Learning and Interpolated ESN"
-
-
+Due to the privacy and sensitivity of the data, only this example dataset is available, which represents the entire dataset and provides enough information to understand the model and results.
 Usage： You can run the command “main.m” to test the model MTIESN.
